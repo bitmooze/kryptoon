@@ -1,0 +1,12 @@
+# dir
+liboqs/
+target/
+test/
+
+# hidden
+.venv/
+.cargo/
+
+# file
+Cargo.lock
+.DS_Store
